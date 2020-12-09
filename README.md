@@ -4,5 +4,5 @@ settings for karabiner-elements
 
 My keyboards
 
-- Keychron K6 keyboard
+- Keychron K6
 - Mac book pro
